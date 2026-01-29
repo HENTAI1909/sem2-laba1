@@ -1,4 +1,5 @@
-﻿Console.Write("Введите первый катет прямоугольного треугольника: ");
+// вар 66 стр 67
+Console.Write("Введите первый катет прямоугольного треугольника: ");
 double cat1 = double.Parse(Console.ReadLine()!);
 Console.Write("Введите второй катет прямоугольного треугольника: ");
 double cat2 = double.Parse(Console.ReadLine()!);
